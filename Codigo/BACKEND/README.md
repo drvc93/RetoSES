@@ -56,7 +56,3 @@ gradlew.bat bootRun
 ./gradlew test
 ```
 
-Se incluyen:
-
-- prueba de servicio (casos de uso)
-- prueba de endpoint reactivo con WebTestClient

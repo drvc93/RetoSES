@@ -25,8 +25,3 @@ npm run test
 - Se añadieron etiquetas y atributos de accesibilidad (`aria-label`, `aria-live`, `role`).
 - Se incluye un test funcional con React Testing Library.
 
-## Mejoras pendientes
-
-- Separar `App.tsx` en componentes pequeños (`ProductList`, `Cart`, `Filters`) para escalar.
-- Agregar más tests (filtro por categoría, eliminación de ítems, persistencia).
-- Integrar un sistema de diseño y manejo más robusto de estados de error.
