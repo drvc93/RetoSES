@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.webflux.products.application.service.ProductServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-04-29T16:40:08.141Z" hostname="DANIEL" time="1.256">
+  <properties/>
+  <testcase name="shouldCreateProductWithRegDate()" classname="com.webflux.products.application.service.ProductServiceTest" time="1.175"/>
+  <testcase name="shouldUpdateProductAndSetModDate()" classname="com.webflux.products.application.service.ProductServiceTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

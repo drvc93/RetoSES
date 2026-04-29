@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.webflux.products.infrastructure.adapters.in.web.ProductControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-29T16:40:09.404Z" hostname="DANIEL" time="1.964">
+  <properties/>
+  <testcase name="shouldCreateProduct()" classname="com.webflux.products.infrastructure.adapters.in.web.ProductControllerTest" time="0.258"/>
+  <system-out><![CDATA[11:40:09.721 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.webflux.products.ProductsApplication for test class com.webflux.products.infrastructure.adapters.in.web.ProductControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.5)
+
+2026-04-29T11:40:10.122-05:00  INFO 28892 --- [    Test worker] c.w.p.i.a.in.web.ProductControllerTest   : Starting ProductControllerTest using Java 17.0.12 with PID 28892 (started by danie in C:\Users\danie\OneDrive\Documentos\Reto SES\Evaluación Front-End\Codigo\BACKEND)
+2026-04-29T11:40:10.123-05:00  INFO 28892 --- [    Test worker] c.w.p.i.a.in.web.ProductControllerTest   : No active profile set, falling back to 1 default profile: "default"
+2026-04-29T11:40:11.103-05:00  INFO 28892 --- [    Test worker] c.w.p.i.a.in.web.ProductControllerTest   : Started ProductControllerTest in 1.293 seconds (process running for 3.624)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
